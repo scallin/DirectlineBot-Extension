@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="DirectlineBotExtension"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="15be81a7-b6b8-4a75-8de3-0da288492e88"
+        ClientSideComponentProperties="{&quot;BotName&quot;:&quot;DCObot&quot;, &quot;DirectLineSecret&quot;:&quot;2mMPgsFzI5g.ZGa90_6bC3estv9Fj8FdsCnqQ7_9VMsQ0e3Jg4Lmn7E&quot;}">
+    </CustomAction>
+</Elements>
