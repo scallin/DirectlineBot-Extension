@@ -16,7 +16,7 @@ import * as ReactDOM from "react-dom";
 import ReactFooter, { IReactFooterProps } from "./ReactFooter";
 import * as jQuery from 'jquery';
 
-const LOG_SOURCE: string = 'InsideDCOBotCustomizer';
+const LOG_SOURCE: string = 'BotCustomizer';
 
 /**
  * If your command set uses the ClientSideComponentProperties JSON input,
